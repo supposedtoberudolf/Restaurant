@@ -1,0 +1,30 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+*.class
+
+# VS Code
+.vscode/
+
+# Code Runner temporary files
+tempCodeRunnerFile.c
+tempCodeRunnerFile.cpp
+tempCodeRunnerFile.java
+tempCodeRunnerFile.py
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Java
+target/
+*.jar
+
+# Build folders
+build/
+dist/
